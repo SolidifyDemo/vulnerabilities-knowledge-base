@@ -1,9 +1,5 @@
 # Vulnerability Knowledge Base Issued by SecurityTeam
 
-This knowledge base is being used at https://probely.com/vulnerabilities/ and by Probely App.
-
-You're free to use the information from this knowledge base. For more details check the LICENSE file.
-
 The main difference between this and other vulnerability knowledge bases is that this one includes specific instructions on how to fix the vulnerabilities based on the tech stack used (Python, Java, PHP, nginx, Apache, etc.). 
 This is a working in progress and we appreciate contributions.
 
