@@ -1,4 +1,4 @@
-# Vulnerability Knowledge Base
+# Vulnerability Knowledge Base Issued by SecurityTeam
 
 This knowledge base is being used at https://probely.com/vulnerabilities/ and by Probely App.
 
